@@ -1,2 +1,2 @@
 ﻿# AppCombustivel
-<img href="https://ibb.co/1X2TRG6">
+<img src="/assets/ilustracao.png">
