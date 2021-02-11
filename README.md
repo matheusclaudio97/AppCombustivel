@@ -1,2 +1,2 @@
 ﻿# AppCombustivel
-<img src="/assets/ilustracao.png">
+<img src="src/assets/ilustracao.png">
